@@ -1,3 +1,8 @@
+> **这是早期的 ACRYL 桌面版，已被取代。** 它连同历史一起保留在这里以供参考，不再开发。请使用 **ACRYL Control Center**
+> （[下载](https://github.com/acrylblends/63-acryl-control-center/releases/latest)）和 **ACRYL ADE**
+> （[下载](https://github.com/acrylblends/05-acryl-ade/releases/latest)）。安装了 Node.js 时，`npx acryl --gui` 会在窗口中打开 Control Center。
+> 旧的安装包仍在 [acryldev/acryl](https://github.com/acryldev/acryl/releases) 的发布中。
+
 # DSH Desktop
 
 [English](README.md) | 中文

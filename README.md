@@ -1,3 +1,12 @@
+> **This is the earlier ACRYL desktop, superseded.** It is kept here with its history for reference and is no longer developed.
+> Use **ACRYL Control Center** ([download](https://github.com/acrylblends/63-acryl-control-center/releases/latest)) to make and run apps, and
+> **ACRYL ADE** ([download](https://github.com/acrylblends/05-acryl-ade/releases/latest)) as the agent development environment. With Node.js,
+> `npx acryl --gui` opens Control Center in a window.
+>
+> Its installers stay where they were published, in the releases of [acryldev/acryl](https://github.com/acryldev/acryl/releases) (`acryl desktop`
+> still offers them). This folder moved out of acryldev/acryl (`apps/acryl-desktop`) with its full history; it builds only inside that workspace
+> at the commit it left from, so the workflows here run by hand only. `examples/blend-demo` came with it.
+
 # DSH Desktop
 
 English | [中文](README.zh.md)
